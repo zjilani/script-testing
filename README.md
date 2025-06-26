@@ -1,4 +1,4 @@
 # script-testing
 
-For additional help, contact bat-help or see someone else.
+For additional help, contact https://iathelp or see someone else.
 
